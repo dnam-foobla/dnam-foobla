@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dnam-foobla
-- 👀 I’m interested in logic
+- 👀 I’m interested in me
 - 🌱 I’m currently learning Software Engineering, UET-VNU
 
 <!---
